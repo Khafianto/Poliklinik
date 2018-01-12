@@ -1,0 +1,86 @@
+.bg-thick{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+}
+.in-thickbox{
+  width: 500px;
+  height: 600px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 4px solid rgb(255,255,255);
+  border-radius: 2px;
+  margin: 40px auto;
+  outline: none;
+}
+.in-thickbox p{
+  margin: 0px;
+}
+.in-thickbox table{
+  width: 100%;
+}
+.in-thickbox table tr td{
+  padding: 5px;
+}
+#close{
+  margin-top: -10px;
+  float: right;
+  font-size: 2em;
+  cursor: pointer;
+}
+#close img{
+  width: 50px;
+  margin-top: -12px;
+  margin-left: -12px;
+  margin-right: ;
+  margin-bottom: ;
+  height: 50px;
+}
+/*.in-thickbox input[type=text]{
+  width: 150px;
+  height: 20px;
+  transition: all 0.3s ease;
+  
+  background-color: #fff;
+}
+.in-thickbox input[readonly]:hover{
+  cursor: not-allowed;
+}
+.in-thickbox #alamat{
+  width: 250px;
+  height: 35px;
+  transition: all 0.3s ease;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #fff;
+}
+.in-thickbox select{
+  width: 150px;
+  height: 20px;
+  transition: all 0.3s ease;
+  
+  background-color: #fff;
+}
+.in-thickbox #simpan{
+  float: left;
+  padding: 10px 10px;
+  cursor: pointer;
+  margin: 13px 0px;
+  border: 1px solid #5d9cec;
+  background-color: #5d9cec;
+  color: #fff;
+  outline: none;
+  box-shadow: 0px 1px 2px #000;
+}
+.in-thickbox textarea{
+  width: 250px;
+  height: 35px;
+  
+  font-family: segoe UI;
+  background-color: #fff;
+  max-width: 250px;
+}
+*/

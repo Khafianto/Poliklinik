@@ -1,0 +1,14 @@
+.kartu {
+	width: 500px;
+	border: 1px solid #000;
+}
+.judul-kartu {
+	padding-left: 40px;
+}
+.isi-kartu{
+	padding-left: 40px;
+}
+.footer {
+	padding: 10px 0px;
+	text-align: center;
+}
